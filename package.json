@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "diwash nembang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.0"
+  }
+}
